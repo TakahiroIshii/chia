@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addressBook>
+	<restaurant id="1">
+		<storeName>Ivy</storeName>
+		<phonenumber>6047371818</phonenumber>
+		<stNumber>3525</stNumber>
+		<stName>W 4th Ave Van</stName>
+		<postalcode>V6R 1N9</postalcode>
+	</restaurant>
+	<restaurant id="2">
+		<storeName>Joe Fortes Seafood House</storeName>
+		<phonenumber>6046691940</phonenumber>
+		<stNumber>777</stNumber>
+		<stName>Thurlow St Van</stName>
+		<postalcode>V6E 3V5</postalcode>
+	</restaurant>
+	<restaurant id="3">
+		<storeName>Kattle of Fish A</storeName>
+		<phonenumber>6046826661</phonenumber>
+		<stNumber>900</stNumber>
+		<stName>Pacific St Van</stName>
+		<postalcode>V6E 2E3</postalcode>
+	</restaurant>
+	<restaurant id="4">
+		<storeName>La Belle Auberge Restaurant</storeName>
+		<phonenumber>6049467717</phonenumber>
+		<stNumber>4856-48</stNumber>
+		<stName>Ave Lad</stName>
+		<postalcode>V4K 1V1</postalcode>
+	</restaurant>
+	<restaurant id="5">
+		<storeName>La Villetta</storeName>
+		<phonenumber>60422993979</phonenumber>
+		<stNumber>3901</stNumber>
+		<stName>E Hastings St Bby</stName>
+		<postalcode>V5C 2H8</postalcode>
+	</restaurant>
+</addressBook>
